@@ -135,8 +135,8 @@ pop_conc, dox_conc = quantifier.quantify(fl_stack, mask)
 
 ## 📚 Publications
 
-1. Kluiszo, E., **Ahmmed, R.**, Sunar, U. (2024). *Mesoscopic Fluorescence Imaging of Light-Triggered Chemotherapeutic Release in Cancer Spheroid Models*. **Pharmaceutics (MDPI)**, Q1, **IF 5.5**. [Read Paper](https://doi.org/10.3390/pharmaceutics)
-2. **Ahmmed, R.**, et al. (2024). *Quantitative Fluorescence Imaging, Light-Triggering, and Monitoring*. **Taylor & Francis / NCI Handbook**, Chapter 5, Section 1.
+1. Kluiszo, E., **Ahmmed, R.**, Sunar, U. (2026). *Mesoscopic Fluorescence Imaging of Light-Triggered Chemotherapeutic Release in Cancer Spheroid Models*. **Pharmaceutics (MDPI)**, Q1, **IF 5.5**. [Read Paper](https://doi.org/10.3390/pharmaceutics)
+2. **Ahmmed, R.**, et al. (2025). *Quantitative Fluorescence Imaging, Light-Triggering, and Monitoring*. **Taylor & Francis / NCI Handbook**, Chapter 5, Section 1.
 
 ---
 
